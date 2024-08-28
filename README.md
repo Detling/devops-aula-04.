@@ -8,4 +8,4 @@ Filmes Favoritos
 Livros Favoritos
 1 IT: a coisa
 2 Ciclo das trevas
-3 Edgar Allan Pou (o Corvo)
+3 Edgar Allan Poe (o Corvo)
